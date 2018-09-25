@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-demo",
+  "version": "1.0.0",
+  "description": "puppeteer example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "huanglongfei@duiba.com.cn\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[\u001b[",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
